@@ -1,2 +1,0 @@
-# 🌱 Weed Grower
-

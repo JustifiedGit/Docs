@@ -1,2 +1,0 @@
-# ⛏ Retro Miner
-

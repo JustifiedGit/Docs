@@ -1,2 +1,0 @@
-# 🍌 Fruit Slicer
-

@@ -1,2 +1,0 @@
-# 👨🌾 Render Farm manager
-
