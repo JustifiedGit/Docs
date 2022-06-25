@@ -1,2 +1,0 @@
-# 💳 Credit Card Terminal
-
