@@ -1,0 +1,2 @@
+# Shooting Window Rules
+
