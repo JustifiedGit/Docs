@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Justified Docs](README.md)
+* [Welcome to Justified Documents](README.md)
 
 ## Jobs
 
