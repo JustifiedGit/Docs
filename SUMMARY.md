@@ -40,3 +40,8 @@
   * [🕴 Jobs](f4-menu/jobs.md)
   * [🪚 Entities](f4-menu/entities.md)
   * [🔫 Weapons & Ammo](f4-menu/weapons-and-ammo.md)
+
+## Ranks
+
+* [VIP](ranks/vip.md)
+* [MVP](ranks/mvp.md)
