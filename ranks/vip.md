@@ -4,7 +4,16 @@
 
 <summary>Benefits</summary>
 
-__
+* 600 bits in-game (This is used to purchase VIP via !store)
+* $10,000,000 In-game money
+* Double XP
+* Build Bigger and Better Bases with an increased prop limit 60
+* Gain Access to VIP only accessories
+* Rainbow Killfeed
+* More money gained from jobs
+* VIP In-game tag to stand out from others.
+* Supporter Discord rank to stand out from others
+* VIP forum rank to stand out from others. (Needs requested)
 
 </details>
 
