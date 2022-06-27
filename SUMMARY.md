@@ -43,5 +43,5 @@
 
 ## Ranks
 
-* [VIP](ranks/vip.md)
-* [MVP](ranks/mvp.md)
+* [❤ VIP](ranks/vip.md)
+* [❤ MVP](ranks/mvp.md)
