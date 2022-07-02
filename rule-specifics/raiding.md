@@ -21,7 +21,6 @@
 7. Must wait 5 minutes before raiding a new person.
 8. Do not raid to kill an individual (Unless you are a hired Hitman)
 9. You may not come back to a raid after death. This is NLR. (5 Minutes)
-10. Must wait 10 minutes before raiding PD/Bank again.
-11. PD & Bank Raids must be adverted via the G Menu.
-12. Inside, raiding is strictly forbidden.
-13. Multiple-person raiding requires everyone to be a member of the same party using the !party system.
+10. PD & Bank Raids must be adverted via the G Menu.
+11. Inside, raiding is strictly forbidden.
+12. Multiple-person raiding requires everyone to be a member of the same party using the !party system.
