@@ -33,7 +33,7 @@
 * [🎥 Media Player](entities/media-player.md)
 * [💳 Credit Card Terminal](entities/credit-card-terminal.md)
 * [💸 Tip Jar](entities/tip-jar.md)
-* [Printers](entities/printers.md)
+* [💰 Printers](entities/printers.md)
 
 ***
 
