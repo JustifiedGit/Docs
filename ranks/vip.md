@@ -7,7 +7,7 @@
 * 600 bits in-game (This is used to purchase VIP via !store)
 * $10,000,000 In-game money
 * Double XP
-* Build Bigger and Better Bases with an increased prop limit 60
+* Build Bigger and Better Bases with an increased prop limit from 60 to 80
 * Gain Access to VIP only accessories
 * Rainbow Killfeed
 * More money gained from jobs
