@@ -46,3 +46,9 @@
 
 * [❤ VIP](ranks/vip.md)
 * [❤ MVP](ranks/mvp.md)
+
+## Bundles
+
+* [Starter Bundle](bundles/starter-bundle.md)
+* [Raider Bundle](bundles/raider-bundle.md)
+* [Defender Bundle](bundles/defender-bundle.md)
