@@ -14,4 +14,4 @@ The tip jar is a terrific way to express gratitude for hard work or give back to
 2. Enter Donation amount
 3. Press Donate
 
-![Tip jar Donation Menu](<../.gitbook/assets/image (1).png>)
+![Tip jar Donation Menu](<../.gitbook/assets/image (1) (1).png>)

@@ -26,4 +26,4 @@ You can access this menu by typing /upgrades as a dweller&#x20;
 
 (You may need to respawn to activate some of  the upgrades)
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (1).png>)
