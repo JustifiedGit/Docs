@@ -50,5 +50,5 @@
 ## Bundles
 
 * [Starter Bundle](bundles/starter-bundle.md)
-* [Raider Bundle](bundles/raider-bundle.md)
 * [Defender Bundle](bundles/defender-bundle.md)
+* [Defender Bundle](bundles/defender-bundle-1.md)
