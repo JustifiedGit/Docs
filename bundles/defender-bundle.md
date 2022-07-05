@@ -16,7 +16,7 @@ Browning Auto 5 - A powerful auto shotgun capable of destroying the most well eq
 
 
 
-![](../.gitbook/assets/browning-removebg-preview.png)
+![](<../.gitbook/assets/browning-removebg-preview (1).png>)
 {% endtab %}
 
 {% tab title="M134 Minigun" %}
@@ -34,7 +34,7 @@ Spas 12 - One of the most powerful semi auto shotguns ever created
 {% tab title="Kriss Vector" %}
 Kriss Vector - A high powered, fast firing SMG
 
-![](../.gitbook/assets/vector.png)
+![](<../.gitbook/assets/vector (1).png>)
 {% endtab %}
 
 {% tab title="Armour Vape" %}
