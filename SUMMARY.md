@@ -57,3 +57,4 @@
 
 * [How to apply for staff?](faq/how-to-apply-for-staff.md)
 * [How to apply for content creator?](faq/how-to-apply-for-content-creator.md)
+* [How to apply for support?](faq/how-to-apply-for-support.md)
