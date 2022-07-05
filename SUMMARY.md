@@ -50,9 +50,10 @@
 ## Bundles
 
 * [Starter Bundle](bundles/starter-bundle.md)
-* [Defender Bundle](bundles/defender-bundle.md)
-* [Raider Bundle](bundles/raider-bundle.md)
+* [Defender Bundle](bundles/raider-bundle.md)
+* [Raider Bundle](bundles/defender-bundle.md)
 
 ## ❔ FAQ
 
 * [How to apply for staff?](faq/how-to-apply-for-staff.md)
+* [How to apply for content creator?](faq/how-to-apply-for-content-creator.md)
