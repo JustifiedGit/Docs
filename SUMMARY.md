@@ -55,4 +55,4 @@
 
 ## ❔ FAQ
 
-* [Test](faq/test.md)
+* [How to apply for staff?](faq/how-to-apply-for-staff.md)
